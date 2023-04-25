@@ -1,0 +1,1 @@
+gcc version 12.2.0 (Rev10, Built by MSYS2 project)

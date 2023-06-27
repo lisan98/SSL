@@ -8,7 +8,7 @@ int main (int argc, char *argv[] ){
     int contador, anchoColumnaFarh = 21,anchoColumnaCelsius = 18;
     int longitud = argc;
     
-    for(contador=0;i<=argc;i++){
+    for(contador=0;contador<=argc;contador++){
 
         valoresFarh[contador] = atof(argv[contador]);
     

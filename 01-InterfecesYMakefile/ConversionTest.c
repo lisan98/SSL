@@ -4,7 +4,9 @@
 
 int main(void){
 
-    assert (conversorFarh_Celsius(32) == 0)
-    assert (conversorFarh_Celsius(50) == 10)
-    assert (conversorFarh_Celsius(14) == -10)
+    assert (conversorFarh_Celsius(32) == 0);
+    assert (conversorFarh_Celsius(50) == 10);
+    assert (conversorFarh_Celsius(14) == -10);
+    
+    return 0;
 }
